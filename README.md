@@ -1,13 +1,5 @@
 # Hi, I'm Elías Osorio 👋
 
-### Full-Stack Developer / Desarrollador Full-Stack
-
-English below | Español más abajo
-
----
-
-## Tech stack
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
@@ -16,9 +8,12 @@ English below | Español más abajo
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+I'm a full-stack developer from Spain who enjoys building reliable products with real business impact.
 
-## English
+Soy un desarrollador full-stack de España al que le gusta crear productos fiables con impacto real en el negocio.
+
+<details>
+<summary><strong>Full profile in English</strong></summary>
 
 ### About me
 
@@ -67,7 +62,10 @@ reliable solutions while sharing knowledge along the way.
 
 ---
 
-## Español
+</details>
+
+<details>
+<summary><strong>Perfil completo en español</strong></summary>
 
 ### Sobre mí
 
@@ -113,3 +111,5 @@ soluciones eficientes y fiables, compartiendo conocimiento durante el proceso.
 
 - GitHub: [@eliasosoriio](https://github.com/eliasosoriio)
 - LinkedIn: [eliasosorio](https://www.linkedin.com/in/eliasosorio/)
+
+</details>
